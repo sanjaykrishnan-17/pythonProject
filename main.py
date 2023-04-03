@@ -9,3 +9,4 @@ ee=oo.dropna
 oo.Medal.value_counts()
 sns.countplot(x='Sport',data=oo)
 ee.info()
+jhscja
